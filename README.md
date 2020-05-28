@@ -22,13 +22,13 @@ Close Price:收盤價
 Highe Price:高點
 Low Price:低點
 Volume: 成交
-slope_result: 明日的漲跌（所求)
+slope_result: 明日的漲跌差值（所求)-> 因為有用到明日的資料，所以沒有使用，否則準確率會為1
 slope_d: 前一天與今日的收盤價的方向
-slope_m: 前1月與今日的收盤價的方向
+slope_m: 前1月與今日的收盤價的方向（30天）
 slope_w: 前一周（5日）與今日的收盤價的方向
 open_w: 前一周（5日）與今日的開盤價的方向
 read_d: 前一天與今日的收盤價的差值
-Hight - Low Prices: 高點與低點的值
+Hight - Low Prices: 高點與低點的差值
 season : 由Date加入四季的因素
 
 ## 模型
