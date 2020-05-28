@@ -30,7 +30,13 @@ open_w: 前一周（5日）與今日的開盤價的方向
 read_d: 前一天與今日的收盤價的差值
 Hight - Low Prices: 高點與低點的差值
 season : 由Date加入四季的因素
-
+## Description
+1. 在In[4]時可以看到我的Close Price & Volume的走勢圖。
+2. 在In[5]-In[9]為觀察每個特徵與Close Price的關係（correlation）
+3. In[10]為計算label & slope_result
+4. In[11]為計算slope_d
+5. In[12]為計算月(slope_m)均線，以及月均線走勢圖
+6. In[13]為計算周均線(slope_w)，以及月均線走勢圖
 ## 模型
 
 * logistic regression
