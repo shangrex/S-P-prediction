@@ -1,6 +1,4 @@
----
-tags: homework
----
+
 
 # FDA S&P500 prediction
 ## 目標
